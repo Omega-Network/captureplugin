@@ -44,7 +44,7 @@ public class Capture extends Plugin {
           Timer.schedule((), 5.0F);
           boolean teams = true;
           for (Teams.TeamData team : Vars.state.teams.active) {
-            if (team.team != Team.purple && team.team != newTeam && (team.team != oldTeam || (oldTeam.data()).cores.size != 1) && team.hasCore()) {
+            if (team.team != Team.malis && team.team != newTeam && (team.team != oldTeam || (oldTeam.data()).cores.size != 1) && team.hasCore()) {
               teams = false;
               break;
             } 
