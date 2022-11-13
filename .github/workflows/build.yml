@@ -34,7 +34,7 @@ jobs:
           cache: 'gradle'
 
       - name: Build Artifact
-        run: ./gradlew build
+        run: chmod +x ./gradlew && ./gradlew build
 
       - name: Set up Artifact Upload
         id: upload
