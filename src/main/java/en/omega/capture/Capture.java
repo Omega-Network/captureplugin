@@ -5,10 +5,7 @@ import arc.Events;
 import mindustry.content.Fx;
 import mindustry.game.EventType;
 import mindustry.game.Team;
-import mindustry.gen.Building;
-import mindustry.gen.Bullet;
-import mindustry.gen.Call;
-import mindustry.gen.Groups;
+import mindustry.gen.*;
 import mindustry.mod.Plugin;
 import mindustry.world.blocks.storage.CoreBlock.CoreBuild;
 
@@ -37,6 +34,7 @@ public class Capture extends Plugin {
                     u.kill();
                 });
                 Call.sendMessage("Team " + otherTeamName + " has no cores left");
+                Call.soundAt(Sounds.wind3, build.x(), build.y(), 1, 0.5f);
             });
         });
     }
