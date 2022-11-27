@@ -1,10 +1,10 @@
 {
   "name": "capture",
   "displayName": "capture",
-  "author": "Cat700 & Volas171",
-  "description": "A template for faster plugin development.",
+  "author": "Cat700 & Volas171 & gorodmi",
+  "description": "capture",
   "version": "2.0",
-  "minGameVersion": "136",
+  "minGameVersion": "140",
   "hidden": true,
   "java": true,
   "main": "en.omega.capture.Capture",
