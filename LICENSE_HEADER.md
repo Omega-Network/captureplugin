@@ -1,15 +1,14 @@
-          DO WHATEVER THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, September 2023  
+Copyright (C) 2023  YeetHosting
 
- Copyright (C) 2023 Yeet Hosting LTD <pr@mindustry.me>
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  
-1. You just DO WHATEVER THE FUCK YOU WANT TO.
-2. You don't bother us about it.
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
